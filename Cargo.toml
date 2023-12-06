@@ -1,7 +1,16 @@
 [package]
 name = "vultr-api"
 version = "0.1.0"
+authors = [
+  "yybit <yybit2@gmail.com>",
+]
+license = "MIT"
+homepage = "https://github.com/yybit/vultr-api"
+repository = "https://github.com/yybit/vultr-api"
+description = "rust library for rust api client"
+readme = "README.md"
 edition = "2021"
+keywords = ["vultr"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

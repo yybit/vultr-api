@@ -22,7 +22,7 @@ rust implementation of vultr api client
 
 Cargo.toml
 ```
-vultr-api = { path = "../vultr-api", features = ["client"] }
+vultr-api = { version = "0.1.0", features = ["client"] }
 ```
 
 Example
